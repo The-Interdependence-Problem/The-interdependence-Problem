@@ -1,4 +1,7 @@
-## Hi there 👋
+# Welcome to the Interdependence Problem Repository!
+
+This repository is an effort in formulating and improving the concept of interdependence, and how that affects life with others. This is a collaborative effort, and participation from all who are interested is welcome. 
+
 
 <!--
 **The-Interdependence-Problem/The-interdependence-Problem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
